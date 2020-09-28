@@ -1,4 +1,4 @@
-# **System Architecture / Design** 📚👨‍💻👩‍💻🔥 
+# **System Architecture / Design**  
 #### Below are just some of the resources I use while studying systems
 
 # **Academic Papers**📚
@@ -10,7 +10,7 @@ Although this is not a requirement, knowing how companies made certain design ch
 * [Google Big Table Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 * [SEDA Architecture](http://www.sosp.org/2001/papers/welsh.pdf)
 
-# **Blogs 👨‍💻👩‍💻**
+# **Blogs**
 `Company Blogs`. Note the naming is the actual name of the system the company uses, 
 or the techology associated with that product / service.
 * [Airbnb Payments](https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324)
@@ -24,7 +24,7 @@ or the techology associated with that product / service.
 * [NGINX -> ENVOY Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Blue Team Rust Memory Safety](https://tiemoko.com/blog/blue-team-rust/)
 
-# **Technologies 💾💽**
+# **Technologies**
 `Common Technologies`.
 * [Kafka](https://kafka.apache.org/)
 * [Redis AWS](https://aws.amazon.com/redis/)
@@ -33,7 +33,7 @@ or the techology associated with that product / service.
 * [Memcached](https://memcached.org/)
 * [Hbase](https://hbase.apache.org/)
 
-# **Web Resources 💎**
+# **Web Resources**
 Helpful Websites, Youtube channels, Git Repos, Etc. 
 * [High Scalability](http://highscalability.squarespace.com/blog/category/strategy)
 * [Groking The System Design](https://www.educative.io/collection/5668639101419520/5649050225344512)
@@ -42,7 +42,7 @@ Helpful Websites, Youtube channels, Git Repos, Etc.
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [This Is My Architecture AWS](https://www.youtube.com/playlist?list=PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb)
 
-# **Other 🤖**
+# **Other**
  * [Dynamo Paper Simplified](https://www.dynamodbguide.com/the-dynamo-paper/)
  * [MemSQL In Memory Database Concepts](https://docs.memsql.com/concepts/v6.8/concepts-overview/)
  * [CAP Theorem Blog](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
@@ -54,7 +54,7 @@ Helpful Websites, Youtube channels, Git Repos, Etc.
  * [Airflow Videos](https://www.youtube.com/watch?v=AHMm1wfGuHE&list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2)
  * [Modern Networks ENVOY](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
  
- # **Academic Courses**📚
+ # **Academic Courses**
  * [Distributed Systems MIT](https://pdos.csail.mit.edu/6.824/)
  * [Advanced DB Carnegie Mellon](https://15721.courses.cs.cmu.edu/spring2020/)
  
